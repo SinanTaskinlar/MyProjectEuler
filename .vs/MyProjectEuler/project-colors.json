@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2128783c-3b61-403d-b98b-26e6851523a6": {
+      "ProjectGuid": "2128783c-3b61-403d-b98b-26e6851523a6",
+      "DisplayName": "MyProjectEuler",
+      "ColorIndex": 0
+    },
+    "3db6fff5-91c2-443f-9087-35b4cacc04bc": {
+      "ProjectGuid": "3db6fff5-91c2-443f-9087-35b4cacc04bc",
+      "DisplayName": "Problem1",
+      "ColorIndex": 1
+    },
+    "d4190d77-138f-4a17-93db-f2aeab752a17": {
+      "ProjectGuid": "d4190d77-138f-4a17-93db-f2aeab752a17",
+      "DisplayName": "Problem2",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
