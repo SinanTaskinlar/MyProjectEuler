@@ -30,7 +30,12 @@
       "ProjectGuid": "d4fd5fda-d225-4652-8bce-502b52b58a9c",
       "DisplayName": "Problem8",
       "ColorIndex": 5
+    },
+    "f77f8933-eddc-400f-b356-f7e684249b41": {
+      "ProjectGuid": "f77f8933-eddc-400f-b356-f7e684249b41",
+      "DisplayName": "SampleAssesment",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 7
 }

@@ -1,0 +1,14 @@
+C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\StrArraySums\bin\Debug\net6.0\SampleAssesment.exe
+C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\StrArraySums\bin\Debug\net6.0\SampleAssesment.deps.json
+C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\StrArraySums\bin\Debug\net6.0\SampleAssesment.runtimeconfig.json
+C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\StrArraySums\bin\Debug\net6.0\SampleAssesment.dll
+C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\StrArraySums\bin\Debug\net6.0\ref\SampleAssesment.dll
+C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\StrArraySums\bin\Debug\net6.0\SampleAssesment.pdb
+C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\StrArraySums\obj\Debug\net6.0\SampleAssesment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\StrArraySums\obj\Debug\net6.0\SampleAssesment.AssemblyInfoInputs.cache
+C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\StrArraySums\obj\Debug\net6.0\SampleAssesment.AssemblyInfo.cs
+C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\StrArraySums\obj\Debug\net6.0\SampleAssesment.csproj.CoreCompileInputs.cache
+C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\StrArraySums\obj\Debug\net6.0\SampleAssesment.dll
+C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\StrArraySums\obj\Debug\net6.0\ref\SampleAssesment.dll
+C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\StrArraySums\obj\Debug\net6.0\SampleAssesment.pdb
+C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\StrArraySums\obj\Debug\net6.0\SampleAssesment.genruntimeconfig.cache

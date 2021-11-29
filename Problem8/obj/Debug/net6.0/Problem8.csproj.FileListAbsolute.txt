@@ -4,7 +4,6 @@ C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\Problem8\bin\Debug\net6.0\P
 C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\Problem8\bin\Debug\net6.0\Problem8.dll
 C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\Problem8\bin\Debug\net6.0\ref\Problem8.dll
 C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\Problem8\bin\Debug\net6.0\Problem8.pdb
-C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\Problem8\obj\Debug\net6.0\Problem8.csproj.AssemblyReference.cache
 C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\Problem8\obj\Debug\net6.0\Problem8.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\Problem8\obj\Debug\net6.0\Problem8.AssemblyInfoInputs.cache
 C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\Problem8\obj\Debug\net6.0\Problem8.AssemblyInfo.cs

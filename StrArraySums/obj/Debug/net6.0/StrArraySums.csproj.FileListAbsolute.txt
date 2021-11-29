@@ -1,0 +1,14 @@
+C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\StrArraySums\obj\Debug\net6.0\StrArraySums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\StrArraySums\obj\Debug\net6.0\StrArraySums.AssemblyInfoInputs.cache
+C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\StrArraySums\obj\Debug\net6.0\StrArraySums.AssemblyInfo.cs
+C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\StrArraySums\obj\Debug\net6.0\StrArraySums.csproj.CoreCompileInputs.cache
+C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\StrArraySums\bin\Debug\net6.0\StrArraySums.exe
+C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\StrArraySums\bin\Debug\net6.0\StrArraySums.deps.json
+C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\StrArraySums\bin\Debug\net6.0\StrArraySums.runtimeconfig.json
+C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\StrArraySums\bin\Debug\net6.0\StrArraySums.dll
+C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\StrArraySums\bin\Debug\net6.0\ref\StrArraySums.dll
+C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\StrArraySums\bin\Debug\net6.0\StrArraySums.pdb
+C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\StrArraySums\obj\Debug\net6.0\StrArraySums.dll
+C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\StrArraySums\obj\Debug\net6.0\ref\StrArraySums.dll
+C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\StrArraySums\obj\Debug\net6.0\StrArraySums.pdb
+C:\Users\sinan.taskinlar\source\repos\MyProjectEuler\StrArraySums\obj\Debug\net6.0\StrArraySums.genruntimeconfig.cache
